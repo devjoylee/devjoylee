@@ -1,17 +1,18 @@
 <div align="center">
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Joylee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Joy+Lee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-**안녕하세요, 저는 ___________ 프론트엔드 개발자입니다.**
+**Hello, I am a frontend developer who  ___________.**
 
-👨‍👩‍👧 누구나 이용할 수 있는 서비스를 만들고 싶은<br>
-✨ 읽기 좋은 코드로 업무 효율을 높이는 <br>
-🔎 완벽히 이해될 때 까지 끈질기게 파고드는 <br>
+is willing to learn new technologies 📖<br>
+has 3+ years experience with many projects ✨<br>
+can collaborate with multiple teams 👨‍👩‍👧<br>
+cares about the quality of code 🔎<br>
 
 <br>
 
-[![Resume Badge](http://img.shields.io/badge/-Resume-4c4d71?style=edge_flat=false&logo=Notion&link=https://devjoylee.oopy.io/)](https://devjoylee.oopy.io/)
+[![Resume Badge](http://img.shields.io/badge/-Portfolio-4c4d71?style=edge_flat=false&logo=Notion&link=https://devjoylee.oopy.io/)](https://devjoylee.oopy.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-4c4d71?style=edge_flat=false&logo=Blogger&logoColor=white&link=https://devjoylee.github.io/)](https://devjoylee.github.io/)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevjoylee&count_bg=%234c4d71&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
