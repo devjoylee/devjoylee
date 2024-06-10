@@ -6,7 +6,7 @@
 **Hello, I am a frontend developer who  ___________.**
 
 is willing to learn new technologies 📖<br>
-has 3+ years experience with many projects ✨<br>
+has extensive experience with various projects. ✨<br>
 can collaborate with multiple teams 👨‍👩‍👧<br>
 cares about the quality of code 🔎<br>
 
