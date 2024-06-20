@@ -12,10 +12,10 @@ cares about the quality of code 🔎<br>
 
 <br>
 
-<a href="https://devjoylee.oopy.io/" style="text-decoration:none">
+<a href="https://devjoylee.oopy.io/">
   <img src="https://github.com/devjoylee/devjoylee.github.io/assets/68415905/505c978a-718f-4f4c-b357-23c537dd74db" height='20px' />
 </a>
-<a href="https://devjoylee.github.io/" style="text-decoration:none">
+<a href="https://devjoylee.github.io/">
   <img src="https://github.com/devjoylee/devjoylee.github.io/assets/68415905/ca46f166-7f59-4030-b12c-191273cec0e2" height='20px' />
 </a>
 
@@ -27,11 +27,11 @@ cares about the quality of code 🔎<br>
 
 <!-- devjoylee's profile -->
  
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:none">
-  <img src="https://github-readme-stats.vercel.app/api?username=devjoylee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=devjoylee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% height="228px" />
 </a>
-<a href="https://github.com/devjoylee/github-stats-transparent" style="text-decoration:none">
- <img src="https://raw.githubusercontent.com/devjoylee/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+<a href="https://github.com/devjoylee/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/devjoylee/github-stats-transparent/output/generated/languages.svg" width=49.2%  />
 </a>
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=devjoylee&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
