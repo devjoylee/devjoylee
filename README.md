@@ -28,7 +28,7 @@ cares about the quality of code 🔎<br>
 <!-- devjoylee's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=devjoylee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devjoylee&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% height="195px" />
 </a>
 <a href="https://github.com/devjoylee/github-stats-transparent">
  <img src="https://raw.githubusercontent.com/devjoylee/github-stats-transparent/output/generated/languages.svg" width=49.2%  />
