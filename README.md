@@ -12,9 +12,13 @@ cares about the quality of code 🔎<br>
 
 <br>
 
-[![Resume Badge](http://img.shields.io/badge/-Portfolio-4c4d71?style=edge_flat=false&logo=Notion&link=https://devjoylee.oopy.io/)](https://devjoylee.oopy.io/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-4c4d71?style=edge_flat=false&logo=Blogger&logoColor=white&link=https://devjoylee.github.io/)](https://devjoylee.github.io/)
-<br>
+<a href="https://devjoylee.github.io/">
+  <img src="https://github.com/devjoylee/devjoylee.github.io/assets/68415905/505c978a-718f-4f4c-b357-23c537dd74db" height='20px' />
+</a>
+<a href="https://devjoylee.github.io/">
+  <img src="https://github.com/devjoylee/devjoylee.github.io/assets/68415905/ca46f166-7f59-4030-b12c-191273cec0e2" height='20px' />
+</a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevjoylee&count_bg=%234c4d71&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
